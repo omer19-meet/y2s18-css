@@ -1,10 +1,20 @@
-body {
+a {
     background-color: black;
     color: white;
-}
-
-a {background-color: yellow ;
-	color: white;
-
+    font-size: 40px;
 
 }
+
+.veg{color: green;
+}
+
+
+
+#Hamborger{background: yellow;
+	font-size: 160%;
+	font-style:initial;
+}
+
+.title{border: 2px solid red}
+
+.content{border: 4px dotted red}
